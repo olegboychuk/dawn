@@ -1,9 +1,0 @@
-body {
-    direction: rtl;
-}
-.header, .footer, .content {
-    text-align: right;
-}
-.icon-arrow {
-    transform: rotate(180deg);
-}
